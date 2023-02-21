@@ -1,6 +1,6 @@
 a = input()
 b = input()
 if a == b:
-    print('Пароль принugт')
+    print('Пароль принufngfj')
 else:
     print('Пароль не принят')
